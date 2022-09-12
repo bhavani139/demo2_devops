@@ -1,1 +1,2 @@
 hello welcome to devops with aws class by raju sir 
+how will work git pull cmd in git its will work we can take code from git hub to our local reposity 
