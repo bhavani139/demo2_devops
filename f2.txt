@@ -1,2 +1,4 @@
-hello welcome to devops with aws class by raju sir 
-how will work git pull cmd in git its will work we can take code from git hub to our local reposity 
+hello welcome to DevOps with AWS class by Raju sir 
+how will work git pull cmd in git it will work we can take code from the git hub to our local repository.
+
+DevOps class will be starting at 7:30 and aws class will go on 8:30
